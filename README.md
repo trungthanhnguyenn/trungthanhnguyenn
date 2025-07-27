@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=trungthanhnguyenn&style=flat-square&color=blue" alt="Profile views"/>
   <h3>🚀 AI Engineer @ Pythera AI | 🇻🇳 Ho Chi Minh City</h3>
-  <p><em>"Attention is all you need"</em></p>
+  <p><em>"**Attention** is ALL you need"</em></p>
 </div>
 
 ---
